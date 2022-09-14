@@ -120,14 +120,23 @@
                 "file": "Java/基础数据类型.md"
               }
             }
+          },
+          {
+            "id": "4a47c9cbfb07c0ff",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f2b55376d120a56b",
+  "active": "db472067d01c41b6",
   "lastOpenFiles": [
     "Java/0-Index.md",
     "Java/基础数据类型.md",
