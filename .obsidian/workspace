@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "4bc9269bda3926d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2b55376d120a56b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Java/基础数据类型.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17b780934136d862",
+    "type": "split",
+    "children": [
+      {
+        "id": "b070dd42d1a47a1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db472067d01c41b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b99bae09d3c9bb61",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5281560da4b2b299",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "329340724a9f8b05",
+    "type": "split",
+    "children": [
+      {
+        "id": "dba110a42353271b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b2d13110abf6175",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java/基础数据类型.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "decde71c5637165c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java/基础数据类型.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c66727b4555a0bb1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "812c90a9d16828ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java/基础数据类型.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "f2b55376d120a56b",
+  "lastOpenFiles": [
+    "Java/0-Index.md",
+    "Java/基础数据类型.md",
+    "Python/Python基础.md"
+  ]
+}
