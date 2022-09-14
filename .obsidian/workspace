@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Java/基础数据类型.md",
+            "file": "Java/test.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/基础数据类型.md",
+                "file": "Java/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/基础数据类型.md",
+                "file": "Java/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/基础数据类型.md"
+                "file": "Java/test.md"
               }
             }
           },
@@ -136,7 +136,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4a47c9cbfb07c0ff",
+  "active": "db472067d01c41b6",
   "lastOpenFiles": [
     "Java/0-Index.md",
     "Java/基础数据类型.md",
