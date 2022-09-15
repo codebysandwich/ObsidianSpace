@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "Python/Python基础.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -127,17 +128,9 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "20cd4a7edc5fadb8",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
