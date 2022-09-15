@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/0-Index.md",
+            "file": "Python/Python基础.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/0-Index.md",
+                "file": "Python/Python基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/0-Index.md",
+                "file": "Python/Python基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/0-Index.md"
+                "file": "Python/Python基础.md"
               }
             }
           },
@@ -129,8 +129,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,6 +137,7 @@
   },
   "active": "f2b55376d120a56b",
   "lastOpenFiles": [
+    "2022-09-15.md",
     "Python/Python基础.md",
     "Python/0-Index.md",
     "Java/0-Index.md",
