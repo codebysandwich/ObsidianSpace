@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Java/0-Index.md",
+            "file": "Java/基础数据类型.md",
             "mode": "source",
             "source": false
           }
@@ -58,6 +58,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "6bc5c7f8c85462c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a47c9cbfb07c0ff",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -77,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/0-Index.md",
+                "file": "Java/基础数据类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/0-Index.md",
+                "file": "Java/基础数据类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,16 +131,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/0-Index.md"
+                "file": "Java/基础数据类型.md"
               }
-            }
-          },
-          {
-            "id": "4a47c9cbfb07c0ff",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           },
           {
@@ -138,16 +144,16 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "812c90a9d16828ad",
+  "active": "db472067d01c41b6",
   "lastOpenFiles": [
-    "Java/基础数据类型.md",
     "Java/0-Index.md",
+    "Java/基础数据类型.md",
     "Python/Python基础.md",
     "Python/0-Index.md",
     "2022-09-15.md",
