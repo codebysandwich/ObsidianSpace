@@ -58,20 +58,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "6bc5c7f8c85462c6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4a47c9cbfb07c0ff",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -144,13 +130,13 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "db472067d01c41b6",
+  "active": "71221d5e35970301",
   "lastOpenFiles": [
     "Java/0-Index.md",
     "Java/基础数据类型.md",
