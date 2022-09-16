@@ -1,4 +1,5 @@
 {
   "vimMode": true,
-  "legacyEditor": false
+  "legacyEditor": false,
+  "strictLineBreaks": true
 }
