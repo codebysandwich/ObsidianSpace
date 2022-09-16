@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,17 +131,17 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "71221d5e35970301",
   "lastOpenFiles": [
-    "Java/基础数据类型.md",
+    "未命名.md",
     "Java/0-Index.md",
+    "Java/基础数据类型.md",
     "Python/Python基础.md",
     "Python/0-Index.md",
     "2022-09-15.md",
