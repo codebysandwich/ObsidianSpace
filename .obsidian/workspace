@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Java/0-Index.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -138,13 +138,13 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "71221d5e35970301",
+  "active": "812c90a9d16828ad",
   "lastOpenFiles": [
     "Java/基础数据类型.md",
     "Java/0-Index.md",
