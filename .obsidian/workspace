@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Java/0-Index.md",
+            "file": "Java/封装.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/0-Index.md",
+                "file": "Java/封装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/0-Index.md",
+                "file": "Java/封装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/0-Index.md"
+                "file": "Java/封装.md"
               }
             }
           },
@@ -152,10 +152,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "812c90a9d16828ad",
+  "active": "db472067d01c41b6",
   "lastOpenFiles": [
-    "test.md",
     "Java/0-Index.md",
+    "test.md",
     "未命名.md",
     "Java/基础数据类型.md",
     "Python/Python基础.md",
