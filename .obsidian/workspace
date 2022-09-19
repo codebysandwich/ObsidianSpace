@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "71221d5e35970301",
+        "id": "8fe74f0aabfaea10",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Java/OnJava.excalidraw.md"
+            "file": "Java/OnJava_0.excalidraw.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/OnJava.excalidraw.md",
+                "file": "Java/OnJava_0.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/OnJava.excalidraw.md",
+                "file": "Java/OnJava_0.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/OnJava.excalidraw.md"
+                "file": "Java/OnJava_0.excalidraw.md"
               }
             }
           },
@@ -148,19 +150,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "71221d5e35970301",
+  "active": "8fe74f0aabfaea10",
   "lastOpenFiles": [
-    "Java/OnJava.excalidraw",
     "Java/OnJava.excalidraw.md",
+    "Java/OnJava_0.excalidraw.md",
+    "Java/OnJava.excalidraw",
     "Excalidraw/Drawing 2022-09-19 10.11.09.excalidraw.md",
     "Java/基础数据类型.md",
     "Java/封装.md",
     "Java/0-Index.md",
     "test.md",
     "未命名.md",
-    "Python/Python基础.md",
-    "Python/0-Index.md"
+    "Python/Python基础.md"
   ]
 }
