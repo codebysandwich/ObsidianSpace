@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Java/封装.md",
+            "file": "Java/Java基础/OnJava/封装.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/封装.md",
+                "file": "Java/Java基础/OnJava/封装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/封装.md",
+                "file": "Java/Java基础/OnJava/封装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/封装.md"
+                "file": "Java/Java基础/OnJava/封装.md"
               }
             }
           },
@@ -152,16 +152,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c66727b4555a0bb1",
+  "active": "8fe74f0aabfaea10",
   "lastOpenFiles": [
-    "Java/0-Index.md",
+    "Java/Java基础/OnJava/0-Index.md",
+    "Java/Java基础/OnJava/基础数据类型.md",
     "Java/封装.md",
+    "Java/0-Index.md",
     "Java/OnJava.excalidraw.md",
     "Java/基础数据类型.md",
     "Java/OnJava.excalidraw",
     "Excalidraw/Drawing 2022-09-19 10.11.09.excalidraw.md",
     "test.md",
-    "未命名.md",
-    "Python/Python基础.md"
+    "未命名.md"
   ]
 }
