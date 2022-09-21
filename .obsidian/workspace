@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,14 +146,13 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "8fe74f0aabfaea10",
+  "active": "db472067d01c41b6",
   "lastOpenFiles": [
     "Java/0-Index.md",
     "Java/封装.md",
