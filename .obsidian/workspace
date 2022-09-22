@@ -150,15 +150,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "8fe74f0aabfaea10",
   "lastOpenFiles": [
-    "Java/Java基础/OnJava/基础数据类型.md",
+    "Java/Java基础/OnJava/0-Index.md",
     "Java/Java基础/OnJava/封装.md",
     "Java/Java基础/OnJava/OnJava.excalidraw.md",
-    "Java/Java基础/OnJava/0-Index.md",
+    "Java/Java基础/OnJava/基础数据类型.md",
     "Java/封装.md",
     "Java/0-Index.md",
     "Java/OnJava.excalidraw.md",
