@@ -20,3 +20,6 @@ nmap <C-o> :back
 exmap forward obcommand app:go-forward
 nmap <C-i> :forward
 
+
+let &t_SI = "\e[5 q"
+let &t_EI = "\e[2 q"
