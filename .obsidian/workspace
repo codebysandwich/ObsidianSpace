@@ -128,6 +128,20 @@
             }
           },
           {
+            "id": "6ec6002843ab9a02",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "61316b8b5115c62f",
+        "type": "tabs",
+        "children": [
+          {
             "id": "812c90a9d16828ad",
             "type": "leaf",
             "state": {
@@ -135,14 +149,6 @@
               "state": {
                 "file": "Java/Java基础/OnJava/0-Index.md"
               }
-            }
-          },
-          {
-            "id": "6ec6002843ab9a02",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
         ]
@@ -153,8 +159,8 @@
   },
   "active": "8fe74f0aabfaea10",
   "lastOpenFiles": [
-    "Java/Java基础/OnJava/01基础数据类型/基础数据类型.md",
     "Java/Java基础/OnJava/0-Index.md",
+    "Java/Java基础/OnJava/01基础数据类型/基础数据类型.md",
     "Java/Java基础/OnJava/07封装/访问修饰符.md",
     "Java/Java基础/OnJava/07封装/命名空间.md",
     "Java/Java基础/OnJava/OnJava.excalidraw.md",
