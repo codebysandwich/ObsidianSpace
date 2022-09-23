@@ -1,5 +1,8 @@
 # Index
 [[OnJava.excalidraw]]
+学习过程中的手绘内容
+
+---
 
 ## [[基础数据类型]]
 `Java`包含8种基本数据类型：byte、short、int、long、float、double、boolean、char
