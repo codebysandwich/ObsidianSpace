@@ -168,6 +168,7 @@
   },
   "active": "2c027914a3d1e292",
   "lastOpenFiles": [
+    "Java/Java基础/OnJava/继承语法.md",
     "Java/Java基础/OnJava/Index.md",
     "Java/Java基础/OnJava/08复用/组合语法.md",
     "Java/Java基础/OnJava/07封装/访问修饰符.md",
@@ -176,7 +177,6 @@
     "Java/Java基础/OnJava/OnJava.excalidraw.md",
     "Java/Java基础/OnJava/01基础数据类型/数据自动类型转换.md",
     "2022-09-23.md",
-    "Java/封装.md",
-    "Java/0-Index.md"
+    "Java/封装.md"
   ]
 }
