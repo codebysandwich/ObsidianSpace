@@ -8,7 +8,7 @@
 `Java`包含8种基本数据类型：byte、short、int、long、float、double、boolean、char
 
 主要要点:
-- float、long显示定义
+- float显示定义
 - 数据类型自动提升
 
 ## 封装
@@ -18,4 +18,8 @@
 - 冲突(命名空间带来的引用冲突)
 
 ### [[访问修饰符]]
-
+- [[访问修饰符#private 你无法访问]]
+- [[访问修饰符#protected 继承访问权限]]
+- [[访问修饰符#包访问权限 VS public构造器]]
+- [[访问修饰符#接口实现原则]]
+## 复用
