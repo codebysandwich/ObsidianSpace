@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Java/Java基础/OnJava/08复用/继承语法.md",
+            "file": "Java/Java基础/OnJava/08复用/委托.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java基础/OnJava/08复用/继承语法.md"
+                "file": "Java/Java基础/OnJava/08复用/委托.md"
               }
             }
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java基础/OnJava/08复用/继承语法.md",
+                "file": "Java/Java基础/OnJava/08复用/委托.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java基础/OnJava/08复用/继承语法.md",
+                "file": "Java/Java基础/OnJava/08复用/委托.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,9 +168,9 @@
   },
   "active": "db472067d01c41b6",
   "lastOpenFiles": [
-    "Java/Java基础/OnJava/08复用/继承语法.md",
     "Java/Java基础/OnJava/Index.md",
     "Java/Java基础/OnJava/08复用/组合语法.md",
+    "Java/Java基础/OnJava/08复用/继承语法.md",
     "Java/Java基础/OnJava/07封装/访问修饰符.md",
     "Java/Java基础/OnJava/07封装/命名空间.md",
     "Java/Java基础/OnJava/01基础数据类型/基础数据类型.md",
