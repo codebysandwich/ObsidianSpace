@@ -6,6 +6,8 @@ nmap k gk
 
 nmap J 5j
 nmap K 5k
+vmap J 5j
+vmap K 5k
 
 " Quickly remove search highlights
 nmap ,l :nohl
