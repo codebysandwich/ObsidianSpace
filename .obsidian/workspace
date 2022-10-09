@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Java/Java基础/OnJava/清理.md",
+            "file": "Java/Java基础/OnJava/08复用/清理.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java基础/OnJava/清理.md"
+                "file": "Java/Java基础/OnJava/08复用/清理.md"
               }
             }
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java基础/OnJava/清理.md",
+                "file": "Java/Java基础/OnJava/08复用/清理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java基础/OnJava/清理.md",
+                "file": "Java/Java基础/OnJava/08复用/清理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
   "active": "db0afb179721b0f4",
   "lastOpenFiles": [
     "Java/Java基础/OnJava/Index.md",
-    "Java/Java基础/OnJava/清理.md",
+    "Java/Java基础/OnJava/08复用/清理.md",
     "Java/Java基础/OnJava/08复用/委托.md",
     "Java/Java基础/OnJava/08复用/组合语法.md",
     "Java/Java基础/OnJava/08复用/继承语法.md",
