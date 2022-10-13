@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Java/Java基础/Index.md",
+            "file": "Java/Java基础/HSP_Java/预备知识.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "tag:#java",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3866bdd46dfb17b5",
@@ -93,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java基础/Index.md"
+                "file": "Java/Java基础/HSP_Java/预备知识.md"
               }
             }
           }
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java基础/Index.md",
+                "file": "Java/Java基础/HSP_Java/预备知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java基础/Index.md",
+                "file": "Java/Java基础/HSP_Java/预备知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,23 +161,23 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "db0afb179721b0f4",
+  "active": "b99bae09d3c9bb61",
   "lastOpenFiles": [
-    "Java/Java基础/OnJava/08复用/清理.md",
     "Java/Java基础/Index.md",
+    "Java/Java基础/HSP_Java/预备知识.md",
+    "Java/Java基础/OnJava/08复用/清理.md",
     "Java/Java基础/OnJava/未命名.md",
     "Java/Java基础/OnJava/08复用/未命名.md",
     "Java/Java基础/OnJava/08复用/委托.md",
     "Java/Java基础/OnJava/08复用/组合语法.md",
     "Java/Java基础/OnJava/08复用/继承语法.md",
     "Java/Java基础/OnJava/07封装/访问修饰符.md",
-    "Java/Java基础/OnJava/07封装/命名空间.md",
-    "Java/Java基础/OnJava/01基础数据类型/基础数据类型.md"
+    "Java/Java基础/OnJava/07封装/命名空间.md"
   ]
 }
