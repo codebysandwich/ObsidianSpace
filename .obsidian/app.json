@@ -4,5 +4,5 @@
   "strictLineBreaks": true,
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": true
 }
