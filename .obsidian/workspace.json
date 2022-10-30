@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java基础/OnJava/08复用/结合组合与继承.md",
+                "file": "Java/Java基础/OnJava/08复用/组合语法.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java基础/OnJava/08复用/结合组合与继承.md"
+                "file": "Java/Java基础/OnJava/08复用/组合语法.md"
               }
             }
           }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java基础/OnJava/08复用/结合组合与继承.md",
+                "file": "Java/Java基础/OnJava/08复用/组合语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java基础/OnJava/08复用/结合组合与继承.md",
+                "file": "Java/Java基础/OnJava/08复用/组合语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,20 +174,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "44d7e809fe5581b3",
   "lastOpenFiles": [
+    "Java/Java基础/OnJava/08复用/组合语法.md",
+    "Java/Java基础/OnJava/08复用/继承语法.md",
+    "Java/Java基础/OnJava/08复用/委托.md",
+    "Java/Java基础/OnJava/08复用/结合组合与继承.md",
     "Java/Java基础/Index.md",
     "Java/Java基础/OnJava/08复用/清理.md",
-    "Java/Java基础/OnJava/08复用/组合语法.md",
     "未命名.md",
     "Java/Java基础/OnJava/08复用/未命名.md",
     "Java/Java基础/OnJava/OnJava.excalidraw.md",
-    "Java/Java基础/OnJava/08复用/结合组合与继承.md",
-    "Java/Java基础/OnJava/08复用/委托.md",
-    "Java/Java基础/OnJava/08复用/继承语法.md",
     "Java/Java基础/OnJava/07封装/命名空间.md"
   ]
 }
