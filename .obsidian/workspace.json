@@ -174,9 +174,6 @@
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "2d0623a49495a484",
   "lastOpenFiles": [
     "Java/Java基础/OnJava/01基础数据类型/基础数据类型.md",
