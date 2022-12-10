@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java基础/OnJava/01基础数据类型/数据自动类型转换.md",
+                "file": "Java/Java基础/OnJava/01基础数据类型/基础数据类型.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java基础/OnJava/01基础数据类型/数据自动类型转换.md"
+                "file": "Java/Java基础/OnJava/01基础数据类型/基础数据类型.md"
               }
             }
           }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java基础/OnJava/01基础数据类型/数据自动类型转换.md",
+                "file": "Java/Java基础/OnJava/01基础数据类型/基础数据类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java基础/OnJava/01基础数据类型/数据自动类型转换.md",
+                "file": "Java/Java基础/OnJava/01基础数据类型/基础数据类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,8 +176,8 @@
   },
   "active": "2d0623a49495a484",
   "lastOpenFiles": [
-    "Java/Java基础/OnJava/01基础数据类型/基础数据类型.md",
     "Java/Java基础/OnJava/01基础数据类型/数据自动类型转换.md",
+    "Java/Java基础/OnJava/01基础数据类型/基础数据类型.md",
     "Java/Java基础/OnJava/08复用/结合组合与继承.md",
     "Java/Java基础/Index.md",
     "Java/Java基础/OnJava/08复用/清理.md",
