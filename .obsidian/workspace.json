@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "856c82cb88e3550b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.8"
+              }
+            }
+          },
+          {
             "id": "89478d8dc75e86f4",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +197,19 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2d0623a49495a484",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "856c82cb88e3550b",
   "lastOpenFiles": [
     "Java/Java基础/OnJava/01基础数据类型/数据自动类型转换.md",
     "Java/Java基础/OnJava/01基础数据类型/基础数据类型.md",
