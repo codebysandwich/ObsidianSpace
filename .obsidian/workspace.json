@@ -11,11 +11,15 @@
             "id": "2d0623a49495a484",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Java/Java基础/OnJava/01基础数据类型/基础数据类型.md",
-                "mode": "source",
-                "source": false
+                "file": "Java/Java基础/java白板.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           },
@@ -113,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java基础/OnJava/01基础数据类型/基础数据类型.md"
+                "file": "Java/Java基础/java白板.canvas"
               }
             }
           }
@@ -129,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java基础/OnJava/01基础数据类型/基础数据类型.md",
+                "file": "Java/Java基础/java白板.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java基础/OnJava/01基础数据类型/基础数据类型.md",
+                "file": "Java/Java基础/java白板.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,10 +202,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2d0623a49495a484",
+  "active": "db472067d01c41b6",
   "lastOpenFiles": [
-    "Java/Java基础/OnJava/01基础数据类型/数据自动类型转换.md",
     "Java/Java基础/OnJava/01基础数据类型/基础数据类型.md",
+    "Java/Java基础/OnJava/01基础数据类型/数据自动类型转换.md",
     "Java/Java基础/OnJava/08复用/结合组合与继承.md",
     "Java/Java基础/Index.md",
     "Java/Java基础/OnJava/08复用/清理.md",
