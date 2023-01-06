@@ -11,8 +11,12 @@
             "id": "2d0623a49495a484",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java基础/HSP_Java/预备知识.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -108,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/Java基础/HSP_Java/预备知识.md"
+              }
             }
           }
         ]
@@ -123,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/Java基础/HSP_Java/预备知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/Java基础/HSP_Java/预备知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
